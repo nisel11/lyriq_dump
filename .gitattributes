@@ -1,1 +1,7 @@
 system_ext/priv-app/SettingsMoto/SettingsMoto.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/AiServices/AiServices.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/Messages/Messages.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/MotCamera4/MotCamera4.apk filter=lfs diff=lfs merge=lfs -text
+product/priv-app/MotoDesktop/MotoDesktop.apk filter=lfs diff=lfs merge=lfs -text
